@@ -1,0 +1,36 @@
+@model FinalLesson.Models.Post
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1 class="mainLabel">Details</h1>
+
+<div class="Details">
+    <h4>Post</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.title)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.title)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.content)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.content)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.timestamp)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.timestamp)
+        </dd>
+    </dl>
+</div>
+<div class="detailsOptions">
+    <a asp-action="Edit" asp-route-id="@Model.PostID">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>
