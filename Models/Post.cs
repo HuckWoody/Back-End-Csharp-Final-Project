@@ -15,7 +15,7 @@ namespace FinalLesson.Models
         [Required]
         [DisplayName("Date")]
         public DateTime timestamp { get; set; }
-        [Required]
+        // [Required]
         public AppUser User { get; set;}
     }
 }

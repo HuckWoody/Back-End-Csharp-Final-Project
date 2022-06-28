@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "j457WhwihmIYMCvwgiQXB3PyO4H6xeoqED54Rnnh9vGLbecjjyj8XAqtG3Lezf8c3mVAHdCu8HDqxO93SyT7tw==",
+  "dgSpecHash": "Bu68IoKKasr5ZL1NYg+FnIs0GlcAHtOIj3ihETbPFZeS/Sor+Att8bq0BDYw9lsuCoke+wv1qXEQapaCCpH1Mw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Huck Woody\\Desktop\\Programming\\CSharp\\FinalLesson\\FinalLesson.csproj",
   "expectedPackageFiles": [
@@ -145,7 +145,8 @@
     "C:\\Users\\Huck Woody\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\Huck Woody\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\Huck Woody\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\Huck Woody\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
+    "C:\\Users\\Huck Woody\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
+    "C:\\Users\\Huck Woody\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
   ],
   "logs": []
 }

@@ -6,7 +6,6 @@ C:\Users\Huck Woody\Desktop\Programming\CSharp\FinalLesson\bin\Debug\net5.0\Fina
 C:\Users\Huck Woody\Desktop\Programming\CSharp\FinalLesson\bin\Debug\net5.0\FinalLesson.runtimeconfig.json
 C:\Users\Huck Woody\Desktop\Programming\CSharp\FinalLesson\bin\Debug\net5.0\FinalLesson.runtimeconfig.dev.json
 C:\Users\Huck Woody\Desktop\Programming\CSharp\FinalLesson\bin\Debug\net5.0\FinalLesson.dll
-C:\Users\Huck Woody\Desktop\Programming\CSharp\FinalLesson\bin\Debug\net5.0\ref\FinalLesson.dll
 C:\Users\Huck Woody\Desktop\Programming\CSharp\FinalLesson\bin\Debug\net5.0\FinalLesson.pdb
 C:\Users\Huck Woody\Desktop\Programming\CSharp\FinalLesson\bin\Debug\net5.0\FinalLesson.Views.dll
 C:\Users\Huck Woody\Desktop\Programming\CSharp\FinalLesson\bin\Debug\net5.0\FinalLesson.Views.pdb
@@ -185,3 +184,4 @@ C:\Users\Huck Woody\Desktop\Programming\CSharp\FinalLesson\obj\Debug\net5.0\Razo
 C:\Users\Huck Woody\Desktop\Programming\CSharp\FinalLesson\obj\Debug\net5.0\Razor\Views\Posts\Edit.cshtml.g.cs
 C:\Users\Huck Woody\Desktop\Programming\CSharp\FinalLesson\obj\Debug\net5.0\Razor\Views\Posts\Index.cshtml.g.cs
 C:\Users\Huck Woody\Desktop\Programming\CSharp\FinalLesson\obj\Debug\net5.0\Razor\Views\Posts\Manage.cshtml.g.cs
+C:\Users\Huck Woody\Desktop\Programming\CSharp\FinalLesson\obj\Debug\net5.0\refint\FinalLesson.dll
